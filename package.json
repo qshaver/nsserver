@@ -1,0 +1,7 @@
+{
+  "name": "wes_api",
+  "dependencies": {
+    "globalthis": "^1.0.3",
+    "request": "^2.88.2"
+  }
+}
